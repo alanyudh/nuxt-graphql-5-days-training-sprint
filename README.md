@@ -10,7 +10,7 @@ A 5-days training sprint to learn Vue, Nuxt, and GraphQL with task checklists fo
 6. [Contribution](#contribution)
 
 
-## 1. Objective <a name="objective"></a>
+# 1. Objective <a name="objective"></a>
 
 This repository is a curated learning steps intended for `junior web developer` to learn faster, so that they can start to contribute feature / bug fix for software projects requiring combination of following technology :
 
@@ -49,7 +49,7 @@ Try to complete the tasks given per day. This training should take around 5 (fiv
 - You only need to push code for task inside `Task` list. The task inside `Reference` list is not mandatory.
 
 
-## 4. Task Checklist <a name="tasks"></a>
+# 4. Task Checklist <a name="tasks"></a>
 
 ### Day 1 - Introduction - Node & Typescript
 
@@ -134,7 +134,7 @@ Additional reference :
 	- PostgreSQL
 
 	
-## 5. Rules <a name="rules"></a>
+# 5. Rules <a name="rules"></a>
 
 ### 1. Use Proper Commit Message
 
@@ -149,7 +149,7 @@ For example, you can refer to [Airbnb Javascript Style Guide](https://github.com
 It is recommended for you to not only understand how to use the technology, but also on the underlying concept behind the technology.
 
 
-## 6. Contribution <a name="contribution"></a>
+# 6. Contribution <a name="contribution"></a>
 
 If you have ideas how to improve this training sprint guideline, please do a PR or leave an issue. Thank a lot :)
 
