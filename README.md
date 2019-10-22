@@ -151,7 +151,7 @@ It is recommended for you to not only understand how to use the technology, but 
 
 # 6. Contribution <a name="contribution"></a>
 
-If you have ideas how to improve this training sprint guideline, please do a PR or leave an issue. Thank a lot :)
+If you have ideas how to improve this training sprint guideline, please do a PR or leave an issue. Thanks a lot :)
 
 
 
