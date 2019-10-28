@@ -1,0 +1,24 @@
+{
+  "name": "nuxt-graphql-5-days-training-sprint",
+  "version": "1.0.0",
+  "description": "A 5-days training sprint to learn Vue, Nuxt, and GraphQL with task checklists for faster learning process.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miqdude/nuxt-graphql-5-days-training-sprint.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miqdude/nuxt-graphql-5-days-training-sprint/issues"
+  },
+  "homepage": "https://github.com/miqdude/nuxt-graphql-5-days-training-sprint#readme",
+  "devDependencies": {
+    "@types/express": "^4.17.1",
+    "express": "^4.17.1"
+  }
+}
