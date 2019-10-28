@@ -18,9 +18,7 @@ class App {
     this.express.use('/', router)
 
     router.get('/custom',(req,res)=>{
-        res.json({
-            message:"Hello Miqdad!"
-        })
+        res.send("Hello Miqdad")
     })
     this.express.use('/custom',router)
   }

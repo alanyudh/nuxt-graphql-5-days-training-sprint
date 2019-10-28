@@ -15,9 +15,7 @@ var App = /** @class */ (function () {
         });
         this.express.use('/', router);
         router.get('/custom', function (req, res) {
-            res.json({
-                message: "custom message"
-            });
+            res.send("Hello Miqdad");
         });
         this.express.use('/custom', router);
     };
