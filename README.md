@@ -56,9 +56,6 @@ Try to complete the tasks given per day. This training should take around 5 (fiv
 **References**
 
 - [*] have forked this repository and pushed the develop branch
-- [*] have followed [NodeJS tutorial](https://www.tutorialspoint.com/nodejs/index.htm)
-- [*] have followed [TypeScript tutorial](https://www.tutorialspoint.com/typescript/index.htm)
-- [*] have made a [simple web server using Node & TypeScript](https://blog.risingstack.com/building-a-node-js-app-with-typescript-tutorial/)
 
 **Task**
 
