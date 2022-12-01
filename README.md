@@ -55,26 +55,23 @@ Try to complete the tasks given per day. This training should take around 5 (fiv
 
 **References**
 
-- [ ] have forked this repository and pushed the develop branch
-- [ ] have followed [NodeJS tutorial](https://www.tutorialspoint.com/nodejs/index.htm)
-- [ ] have followed [TypeScript tutorial](https://www.tutorialspoint.com/typescript/index.htm)
-- [ ] have made a [simple web server using Node & TypeScript](https://blog.risingstack.com/building-a-node-js-app-with-typescript-tutorial/)
+- [*] have forked this repository and pushed the develop branch
 
 **Task**
 
-- [ ] have added route `/custom` that return `Hello [my-name]!`
+- [*] have added route `/custom` that return `Hello [my-name]!`
  
  
 ### Day 2 - Front End - VueJS
 
 **References**
 
-- [ ] have followed [VueJS tutorial](https://www.tutorialspoint.com/vuejs/index.htm)
-- [ ] have finished [tutorial to build a sample Agenda app](https://mdbootstrap.com/education/vue/agenda-app-1-overview/)
+- [*] have followed [VueJS tutorial](https://www.tutorialspoint.com/vuejs/index.htm)
+- [*] have finished [tutorial to build a sample Agenda app](https://mdbootstrap.com/education/vue/agenda-app-1-overview/)
 
 **Task**
 
-- [ ] have made a simple to-do list app with following front-end functions :
+- [*] have made a simple to-do list app with following front-end functions :
 	- show list of to-do 
 	- add new to-do list
 	- edit new to-do list
@@ -89,12 +86,12 @@ Sample (not mandatory to look like [this](https://www.freecodecamp.org/news/lear
 
 **References**
 
-- [ ] have followed [ExpressJS tutorial](https://www.tutorialspoint.com/expressjs/index.htm)
-- [ ] have finished [tutorial to build a API server using Express + PostgreSQL](https://blog.logrocket.com/setting-up-a-restful-api-with-node-js-and-postgresql-d96d6fc892d8/)
+- [*] have followed [ExpressJS tutorial](https://www.tutorialspoint.com/expressjs/index.htm)
+- [*] have finished [tutorial to build a API server using Express + PostgreSQL](https://blog.logrocket.com/setting-up-a-restful-api-with-node-js-and-postgresql-d96d6fc892d8/)
 
 **Task**
 
-- [ ] change the database connection from directly to PostgreSQL into`Sequelize` as the ORM connection
+- [*] change the database connection from directly to PostgreSQL into`Sequelize` as the ORM connection
 
 Reference : [Setup PostgreSQL with Sequelize in Express](https://www.robinwieruch.de/postgres-express-setup-tutorial)
 
